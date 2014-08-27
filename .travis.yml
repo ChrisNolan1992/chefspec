@@ -7,6 +7,7 @@ branches:
   only:
     - master
 
+
 bundler_args: --jobs 7
 
 gemfile:
